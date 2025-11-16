@@ -3,23 +3,28 @@
 交易员
 比特币
 以太坊
+非农数据
+cpi
+降息
+美联储
+黄金
+央行
+期权
 
-英伟达
-NVIDIA
+特朗普
+美国
+普京
+中东
+俄乌
+以色列
 
-AMD
-
-谷歌
-google
-gemini
-deepmind
+外交部
+国防部
+中国
 
 chatgpt
 openai
 sora
-
-claude
-Anthropic
 
 iphone
 ipad
@@ -30,14 +35,7 @@ ai
 !gai
 人工智能
 
-自动驾驶
-
 机器人
-
-芯片
-光刻机
-
-科技
 
 核能
 
